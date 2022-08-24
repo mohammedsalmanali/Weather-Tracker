@@ -15,7 +15,7 @@ export class AppComponent {
   wheatherDetails:any
   lat = 10.7867
   lng = 76.65
-  title = 'open-wheather-app';
+  title = 'weather-tracker';
   options: any;
   overlays: any = []
   map = google.maps.Map;
